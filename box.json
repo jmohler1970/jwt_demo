@@ -1,0 +1,8 @@
+{
+    "dependencies":{
+        "cf-jwt-simple":"git://github.com/jmohler1970/cf-jwt-simple.git"
+    },
+    "installPaths":{
+        "cf-jwt-simple":"jwt/"
+    }
+}
